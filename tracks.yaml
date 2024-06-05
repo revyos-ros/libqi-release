@@ -67,7 +67,7 @@ tracks:
     last_version: 3.0.2
     name: upstream
     patches: null
-    release_inc: '2'
+    release_inc: '3'
     release_repo_url: git@github.com:revyos-ros/libqi-release.git
     release_tag: :{ask}
     ros_distro: humble
